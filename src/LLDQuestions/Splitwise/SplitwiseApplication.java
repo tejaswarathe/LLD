@@ -1,9 +1,9 @@
-package Splitwise;
+package LLDQuestions.Splitwise;
 
 
-import Splitwise.data.Data;
-import Splitwise.service.ExpenseService;
-import Splitwise.service.UserService;
+import LLDQuestions.Splitwise.data.Data;
+import LLDQuestions.Splitwise.service.ExpenseService;
+import LLDQuestions.Splitwise.service.UserService;
 
 class SplitwiseApplication {
 

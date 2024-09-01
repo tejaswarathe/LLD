@@ -1,6 +1,6 @@
-package TicTacToeGame;
+package LLDQuestions.TicTacToeGame;
 
-import TicTacToeGame.models.*;
+import LLDQuestions.TicTacToeGame.models.*;
 
 import java.util.*;
 

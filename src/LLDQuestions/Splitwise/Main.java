@@ -1,7 +1,7 @@
-package Splitwise;
+package LLDQuestions.Splitwise;
 
-import Splitwise.data.Data;
-import Splitwise.service.InputParser;
+import LLDQuestions.Splitwise.data.Data;
+import LLDQuestions.Splitwise.service.InputParser;
 
 
 public class Main {
@@ -16,7 +16,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Splitwise Works");
+        System.out.println("LLDQuestions.Splitwise Works");
         inputParser.readInput("SHOW");
         inputParser.readInput("SHOW u1");
         inputParser.readInput("EXPENSE u1 1000 4 u1 u2 u3 u4 EQUAL");

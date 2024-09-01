@@ -1,4 +1,4 @@
-package TicTacToeGame.models;
+package LLDQuestions.TicTacToeGame.models;
 
 import java.util.ArrayList;
 import java.util.List;

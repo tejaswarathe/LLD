@@ -1,4 +1,4 @@
-package Splitwise.models;
+package LLDQuestions.Splitwise.models;
 
 import java.util.HashMap;
 import java.util.Map;

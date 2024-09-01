@@ -1,8 +1,8 @@
-package Splitwise.service;
+package LLDQuestions.Splitwise.service;
 
 
-import Splitwise.models.Expense;
-import Splitwise.models.SplitType;
+import LLDQuestions.Splitwise.models.Expense;
+import LLDQuestions.Splitwise.models.SplitType;
 
 import java.util.HashMap;
 import java.util.Map;

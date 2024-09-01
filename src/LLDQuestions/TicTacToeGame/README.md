@@ -23,4 +23,4 @@ Tic-Tac-Toe is a two-player game where players take turns marking a 3x3 grid wit
 1. Clone the repository and navigate to the Tic-Tac-Toe folder:
    ```bash
    git clone https://github.com/tejaswarathe/LLD.git
-   cd LLD/TicTacToeGame
+   cd LLD/LLDQuestions.TicTacToeGame

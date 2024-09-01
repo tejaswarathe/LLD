@@ -1,7 +1,7 @@
-package Splitwise.data;
+package LLDQuestions.Splitwise.data;
 
 
-import Splitwise.models.UserList;
+import LLDQuestions.Splitwise.models.UserList;
 
 public class Data {
     public static UserList userList = new UserList();

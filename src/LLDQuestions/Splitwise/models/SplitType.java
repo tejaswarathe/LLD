@@ -1,4 +1,4 @@
-package Splitwise.models;
+package LLDQuestions.Splitwise.models;
 
 public enum SplitType {
     EQUAL,

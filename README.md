@@ -4,8 +4,8 @@ This repository contains Low-Level Design (LLD) implementations of various syste
 
 ## Contents
 
-### 1. [Splitwise](./src/Splitwise)
-A simplified version of the Splitwise application, which helps users keep track of shared expenses and settle balances with friends.
+### 1. [Splitwise](./src/LLDQuestions/Splitwise)
+A simplified version of the LLDQuestions.Splitwise application, which helps users keep track of shared expenses and settle balances with friends.
 
 **Features:**
 - Add expenses between users
@@ -13,7 +13,7 @@ A simplified version of the Splitwise application, which helps users keep track 
 - Equal and unequal expense splits
 - Expense history
 
-### 2. [Tic-Tac-Toe](./src/TicTacToeGame)
+### 2. [Tic-Tac-Toe](./src/LLDQuestions/TicTacToeGame)
 A classic Tic-Tac-Toe game implementation.
 
 **Features:**

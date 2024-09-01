@@ -1,4 +1,4 @@
-package ParkingLot.Models;
+package LLDQuestions.ParkingLot.Models;
 
 import java.time.OffsetDateTime;
 

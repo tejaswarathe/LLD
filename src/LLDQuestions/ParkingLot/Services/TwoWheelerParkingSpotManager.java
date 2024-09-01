@@ -1,6 +1,6 @@
-package ParkingLot.Services;
+package LLDQuestions.ParkingLot.Services;
 
-import ParkingLot.Models.ParkingSpot;
+import LLDQuestions.ParkingLot.Models.ParkingSpot;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package ParkingLot.Models;
+package LLDQuestions.ParkingLot.Models;
 
 public class Vehicle {
 

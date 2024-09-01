@@ -1,4 +1,4 @@
-package ParkingLot.Services;
+package LLDQuestions.ParkingLot.Services;
 
 public class ParkingSpotManager {
 

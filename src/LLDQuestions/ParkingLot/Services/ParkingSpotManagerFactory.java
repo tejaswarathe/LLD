@@ -1,6 +1,6 @@
-package ParkingLot.Services;
+package LLDQuestions.ParkingLot.Services;
 
-import ParkingLot.Models.VehicleType;
+import LLDQuestions.ParkingLot.Models.VehicleType;
 
 public class ParkingSpotManagerFactory {
 

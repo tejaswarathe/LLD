@@ -1,8 +1,8 @@
-package ParkingLot;
+package LLDQuestions.ParkingLot;
 
-import ParkingLot.Models.ParkingLot;
-import ParkingLot.Models.Vehicle;
-import ParkingLot.Models.VehicleType;
+import LLDQuestions.ParkingLot.Models.ParkingLot;
+import LLDQuestions.ParkingLot.Models.Vehicle;
+import LLDQuestions.ParkingLot.Models.VehicleType;
 
 public class Main {
 

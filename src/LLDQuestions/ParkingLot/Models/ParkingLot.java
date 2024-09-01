@@ -1,7 +1,7 @@
-package ParkingLot.Models;
+package LLDQuestions.ParkingLot.Models;
 
-import ParkingLot.Services.ParkingSpotManager;
-import ParkingLot.Services.ParkingSpotManagerFactory;
+import LLDQuestions.ParkingLot.Services.ParkingSpotManager;
+import LLDQuestions.ParkingLot.Services.ParkingSpotManagerFactory;
 
 public class ParkingLot {
 
@@ -10,7 +10,7 @@ public class ParkingLot {
     public boolean parkVehicle(Vehicle vehicle) {
         ParkingSpotManager parkingSpotManager = parkingSpotManagerFactory.getParkingSpotManager(vehicle.getVehicleType());
 
-
+        return true;
     }
 
 }
